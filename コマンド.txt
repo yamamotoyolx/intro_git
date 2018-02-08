@@ -1,3 +1,12 @@
 ls -a
 git add
 git commit -v
+git status
+git log
+git pull
+
+git commit -m "initial commit"
+
+remote add origin https://github.com/yamamotoyolx/intro_git.git
+git push -u origin master
+ 
