@@ -1,30 +1,30 @@
-�@�܂��A
-�ȉ��̓���������ƌ��Ȃ���A
-�R�}���h��̌����Ă��������B
+①まず、
+以下の動画をざっと見ながら、
+コマンドを体験してください。
 https://www.udemy.com
-���o�^���K�v
-�˖ړI�FGitBash�̃R�}���h�̓�����̌������
+※登録が必要
+⇒目的：GitBashのコマンドの動きを体験する為
 
-�AGUI���g����gui���w�т܂��B
-SourceTree�i���p�҂������j�Ƃ����c�[�����g���O��ɂāA
-�ȉ��T�C�g�ɂāA
+②GUIを使ってguiを学びます。
+SourceTree（利用者が多い）というツールを使う前提にて、
+以下サイトにて、
 https://codeiq.jp/magazine/tag/webdesign-manga/
 
 remote add origin https://github.com/yamamotoyolx/intro_git.git
-�ɂāA������Github����pull�����āApush�����铙�����H�ɂȂ�܂��B
-���p�X���[�h�͂�����
+にて、当方のGithubからpullをして、pushをする等も実践になります。
+※パスワードはいつもの
 
-�˖ړI�F���H�I�ȓ�����̌�
+⇒目的：実践的な動きを体験
 
-�B�u�����`���w��
-�ȉ��y�[�W��������₷��
+③ブランチを学ぶ
+以下ページが分かりやすい
 https://backlog.com/ja/git-tutorial/stepup/stepup1_1.html
 
 
-�C����ւ̃��[���̊m�F
-�E�u�����`�̗��p�̎d��
-�Emaster�u�����`�ւ̃}�[�W�̃^�C�~���O
-�Ecommit���b�Z�[�W�̋L�ڃ��[��
+④先方へのルールの確認
+・ブランチの利用の仕方
+・masterブランチへのマージのタイミング
+・commitメッセージの記載ルール
 
 
-�D��͎��H�̊���
+⑤後は実践の慣れ
