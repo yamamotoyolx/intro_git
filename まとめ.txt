@@ -7,8 +7,9 @@ https://www.udemy.com
 
 ②GUIを使ってguiを学びます。
 SourceTree（利用者が多い）というツールを使う前提にて、
-以下サイトにて、
+以下サイト（漫画）を観ながら学ぶ
 https://codeiq.jp/magazine/tag/webdesign-manga/
+※第8話ぐらいまで
 
 remote add origin https://github.com/yamamotoyolx/intro_git.git
 にて、当方のGithubからpullをして、pushをする等も実践になります。
