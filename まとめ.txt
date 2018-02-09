@@ -27,4 +27,5 @@ https://backlog.com/ja/git-tutorial/stepup/stepup1_1.html
 ・commitメッセージの記載ルール
 
 
-⑤後は実践の慣れ
+⑤SSH接続は、以下を参照
+http://azunobu.hatenablog.com/entry/2015/08/06/201449
